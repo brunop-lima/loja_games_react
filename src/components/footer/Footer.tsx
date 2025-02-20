@@ -19,13 +19,13 @@ function Footer() {
 						Acesse nossas redes sociais
 					</p>
 					<div className='flex gap-2'>
-                        <a href="https://www.linkedin.com/school/generationbrasil" target="_blank">
+                        <a href="https://www.linkedin.com/in/brunoplima01/" target="_blank">
                             <LinkedinLogo size={48} weight='bold' />
                         </a>
-                        <a href="https://www.instagram.com/generationbrasil" target="_blank">
+                        <a href="https://www.instagram.com/cheke_pl/" target="_blank">
                             <InstagramLogo size={48} weight='bold' />
                         </a>
-                        <a href="https://www.facebook.com/generationbrasil" target="_blank">
+                        <a href="https://github.com/brunop-lima/loja_games_react" target="_blank">
                             <GithubLogo size={48} weight='bold' />
                         </a>
                     </div>
